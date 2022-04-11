@@ -2,7 +2,7 @@
 
 ## :wave: Bienvenid@s
 
-Saludos <coders /> Al finalizar podrás distinguir e identificar la sintaxis básica del lenguaje Go (estructuras de datos, funciones, módulos y paquetes) para crear servicios de backend en Http, GRPC, entre otros. 
+Saludos < coders /> Al finalizar podrás distinguir e identificar la sintaxis básica del lenguaje Go (estructuras de datos, funciones, módulos y paquetes) para crear servicios de backend en Http, GRPC, entre otros. 
     Utilizarás variables y tipos de datos; operadores lógicos y condiciones, estructuras de control, bucles, etc.
 
 ## :dart: Objetivo
