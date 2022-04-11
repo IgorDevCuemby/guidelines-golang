@@ -39,4 +39,15 @@ func main() {
 	var y complex128 = 3.1415i
 	fmt.Println(y) // (0+3.1415i)
 
+	//Cadenas de texto
+
+	// La forma interpretada
+	interpreted := "Hola\nmundo!\n"
+	fmt.Println(interpreted) // Hola
+
+	// la forma de cadena sin formato
+	raw := `Hola
+			mundo!`
+	fmt.Println(raw) // Hola
+
 }

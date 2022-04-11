@@ -89,6 +89,21 @@ fmt.Println(y) // (0+3.1415i)
 
 
 - Texto:
+Una cadena representa una secuencia de puntos de código Unicode. las cadenas en Go son inmutables:
+una vez creado, no es posible cambiar el contenido de una cadena.
+
+Go admite dos estilos de literales de cadena, el estilo de comillas dobles (o literales interpretados) y el estilo de comillas inversas (o literales de cadena sin formato). por ejemplo, los siguientes dos literales de cadena son equivalentes:
+``` 
+//Cadenas de texto
+
+// La forma interpretada
+"Hola\nworld!\n"
+
+// la forma de cadena sin formato
+`Hola
+world!`
+
+``` 
 
         - string (str): Cadenas de texto (cadena de caracteres)
 
