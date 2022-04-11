@@ -1,4 +1,4 @@
- # Guidelines golang project templates
+ # Guidelines Golang project templates
 
 ## :wave: Bienvenid@s
 
@@ -10,6 +10,7 @@ Saludos <coders /> Al finalizar podrás distinguir e identificar la sintaxis bá
  - Conocer la sintaxis básica de Go (estructuras de datos, funciones, módulos, clases, entre otros).
  - Utilizar variables y tipos de datos; operadores lógicos y condiciones, así como ciclos de control.
  - Usar efectivamente las herramientas de la programación orientada a objetos.
+
 
 ## :bookmark_tabs: Sesiones
  

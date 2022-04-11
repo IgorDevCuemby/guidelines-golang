@@ -1,4 +1,4 @@
-# Sesión 01: Crea tu primer proyecto con Go. (estandar de Go y buenas prácticas)
+# Sesión 01: Tipos de datos
 
 ## :dart: Objetivos
 
