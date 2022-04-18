@@ -50,4 +50,35 @@ func main() {
 			mundo!`
 	fmt.Println(raw) // Hola
 
+	//Declaración de variables
+	//var name type = expression
+	//Con Inicialización
+	var foo int = 5
+	fmt.Println(foo) // 5
+	//Multiple declaraciones
+	var (
+		bar1 int
+		baz1 string
+	)
+	fmt.Println(bar1) // 0
+	fmt.Println(baz1) // ""
+	//Or
+	var bar, baz int = 1, 2
+	fmt.Println(bar) // 1
+	fmt.Println(baz) // 2
+
+	//Con inferencia de tipo
+	var qux = 42
+	fmt.Println(qux) // 42
+
+	//Multiples tipos mixtos
+	var b, f, s1 = true, 2.3, "four"
+	fmt.Println(b)  // true
+	fmt.Println(f)  // 2.3
+	fmt.Println(s1) // four
+
+	//Sin inicialización
+	var s string
+	fmt.Println(s) // ""
+
 }
